@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.applicationaccess.90AB3D3F-B415-4636-BA83-B14364730353</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>90AB3D3F-B415-4636-BA83-B14364730353</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAutoUnlock</key>
+			<false/>
+			<key>allowCloudAddressBook</key>
+			<false/>
+			<key>allowCloudBTMM</key>
+			<false/>
+			<key>allowCloudBookmarks</key>
+			<false/>
+			<key>allowCloudCalendar</key>
+			<false/>
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
+			<key>allowCloudDocumentSync</key>
+			<false/>
+			<key>allowCloudFMM</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
+			<key>allowCloudMail</key>
+			<false/>
+			<key>allowCloudNotes</key>
+			<false/>
+			<key>allowCloudPhotoLibrary</key>
+			<false/>
+			<key>allowCloudReminders</key>
+			<false/>
+			<key>allowFingerprintForUnlock</key>
+			<false/>
+			<key>allowMusicService</key>
+			<false/>
+			<key>allowPasswordAutoFill</key>
+			<false/>
+			<key>allowPasswordProximityRequests</key>
+			<false/>
+			<key>allowPasswordSharing</key>
+			<false/>
+			<key>allowiTunesFileSharing</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>"New to Mac" notification settings</string>
+			<key>PayloadDisplayName</key>
+			<string>New to Mac</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.touristd.E8569DB3-5344-4779-B56D-C7EDEFFB8991</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.touristd</string>
+			<key>PayloadUUID</key>
+			<string>E8569DB3-5344-4779-B56D-C7EDEFFB8991</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>seed-https://help.apple.com/macOS/mojave/mac-basics</key>
+			<date>2019-08-10T20:51:53Z</date>
+			<key>seed-https://help.apple.com/macOS/mojave/whats-new</key>
+			<date>2019-08-10T20:51:53Z</date>
+		</dict>
+		<dict>
+			<key>MultipleSessionEnabled</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Global Preferences settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Global Preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D..GlobalPreferences.BC1ED61D-63C8-444F-AD9D-0B8C4F9614F7</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>.GlobalPreferences</string>
+			<key>PayloadUUID</key>
+			<string>BC1ED61D-63C8-444F-AD9D-0B8C4F9614F7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.autologout.AutoLogOutDelay</key>
+			<integer>3600</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures System Preferences: Security settings</string>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences: Security</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.preference.security.88CE3734-E4E0-4956-B330-508A2AE71EB6</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.preference.security</string>
+			<key>PayloadUUID</key>
+			<string>88CE3734-E4E0-4956-B330-508A2AE71EB6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>dontAllowLockMessageUI</key>
+			<true/>
+			<key>dontAllowPasswordResetUI</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>GKFeatureAccountModificationAllowed</key>
+			<false/>
+			<key>GKFeatureAddingGameCenterFriendsAllowed</key>
+			<false/>
+			<key>GKFeatureGameCenterAllowed</key>
+			<false/>
+			<key>GKFeatureMultiplayerGamingAllowed</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Parental Controls: Game Center settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Parental Controls: Game Center</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.gamed.3BF90577-7F70-4A92-8435-280B8C0EC29C</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.gamed</string>
+			<key>PayloadUUID</key>
+			<string>3BF90577-7F70-4A92-8435-280B8C0EC29C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AdminHostInfo</key>
+			<string>HostName</string>
+			<key>ChangePasswordDisabled</key>
+			<true/>
+			<key>DisableScreenLockImmediate</key>
+			<true/>
+			<key>LoginwindowText</key>
+			<string>Username: student | Password: student</string>
+			<key>PayloadDescription</key>
+			<string>Configures Loginwindow settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Loginwindow</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.loginwindow.1D386E20-7C2D-452E-A2CE-8393655CE200</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>1D386E20-7C2D-452E-A2CE-8393655CE200</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PowerOffDisabledWhileLoggedIn</key>
+			<true/>
+			<key>RestartDisabled</key>
+			<false/>
+			<key>RestartDisabledWhileLoggedIn</key>
+			<false/>
+			<key>SHOWFULLNAME</key>
+			<true/>
+			<key>ShutDownDisabled</key>
+			<true/>
+			<key>ShutDownDisabledWhileLoggedIn</key>
+			<true/>
+			<key>SleepDisabled</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>HiddenPreferencePanes</key>
+			<array>
+				<string>com.apple.preferences.wallet</string>
+				<string>com.apple.preferences.password</string>
+				<string>com.apple.preference.internet</string>
+				<string>com.apple.Xsan</string>
+				<string>com.apple.prefs.backup</string>
+				<string>com.apple.preference.speech</string>
+				<string>com.apple.preferences.icloud</string>
+				<string>com.apple.preference.startupdisk</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures System Preferences settings</string>
+			<key>PayloadDisplayName</key>
+			<string>System Preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.systempreferences.A92F3A11-386D-4782-9C07-20471AC7D695</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>A92F3A11-386D-4782-9C07-20471AC7D695</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Keynote configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Keynote</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.iWork.Keynote.06F69D83-5F6C-4B3E-9478-34FAB5D10C6B</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.iWork.Keynote</string>
+			<key>PayloadUUID</key>
+			<string>06F69D83-5F6C-4B3E-9478-34FAB5D10C6B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>TMAFirstLaunchVersion</key>
+			<integer>99999</integer>
+			<key>TSURemoteDefaultsNextUpdate</key>
+			<date>2099-01-01T00:00:00Z</date>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Energy Saver settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Energy Saver</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.MCX.036C1A93-212E-4C91-9309-D2DEF33EFA38</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>036C1A93-212E-4C91-9309-D2DEF33EFA38</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.EnergySaver.desktop.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>1</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<false/>
+				<key>Display Sleep Timer</key>
+				<integer>60</integer>
+				<key>Sleep On Power Button</key>
+				<integer>0</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.portable.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>0</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<false/>
+				<key>Display Sleep Timer</key>
+				<integer>0</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+			<key>com.apple.EnergySaver.portable.BatteryPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>0</integer>
+				<key>Disk Sleep Timer-boolean</key>
+				<false/>
+				<key>Display Sleep Timer</key>
+				<integer>30</integer>
+				<key>System Sleep Timer</key>
+				<integer>60</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>DisableSoftwareUpdateNotifications</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures App Store settings</string>
+			<key>PayloadDisplayName</key>
+			<string>App Store settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.appstore.B7F91980-00CB-4F2E-A4B7-F494AE26359D</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.appstore</string>
+			<key>PayloadUUID</key>
+			<string>B7F91980-00CB-4F2E-A4B7-F494AE26359D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>restrict-store-disable-app-adoption</key>
+			<true/>
+			<key>restrict-store-require-admin-to-install</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Numbers configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Numbers</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.iWork.Numbers.7E9F6D34-9034-42E2-9253-A923022E0778</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.iWork.Numbers</string>
+			<key>PayloadUUID</key>
+			<string>7E9F6D34-9034-42E2-9253-A923022E0778</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>TMAFirstLaunchVersion</key>
+			<integer>99999</integer>
+			<key>TSURemoteDefaultsNextUpdate</key>
+			<date>2099-01-01T00:00:00Z</date>
+		</dict>
+		<dict>
+			<key>BKDisableBookStorePreferenceKey</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures iBooks configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>iBooks</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.iBooksX.181C02E4-1674-493D-898D-6AAF6371469D</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.iBooksX</string>
+			<key>PayloadUUID</key>
+			<string>181C02E4-1674-493D-898D-6AAF6371469D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Pages configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Pages</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.iWork.Pages.C6E3999C-B864-47EE-9541-C1418467941F</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.iWork.Pages</string>
+			<key>PayloadUUID</key>
+			<string>C6E3999C-B864-47EE-9541-C1418467941F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>TMAFirstLaunchVersion</key>
+			<integer>99999</integer>
+			<key>TSURemoteDefaultsNextUpdate</key>
+			<date>2099-01-01T00:00:00Z</date>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Finder settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.finder.B9698357-608C-468A-9F77-41BF13DCA145</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadUUID</key>
+			<string>B9698357-608C-468A-9F77-41BF13DCA145</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>WarnOnEmptyTrash</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>AutomaticCheckEnabled</key>
+			<false/>
+			<key>AutomaticDownload</key>
+			<false/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<false/>
+			<key>ConfigDataInstall</key>
+			<true/>
+			<key>CriticalUpdateInstall</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Software Update settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.SoftwareUpdate.F7B0DCB3-392D-4C27-9D21-5E4678250F26</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>F7B0DCB3-392D-4C27-9D21-5E4678250F26</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>restrict-software-update-require-admin-to-install</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>DisableDeviceBackups</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures iTunes configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>iTunes</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.iTunes.D9FE36BD-F26E-4550-910D-6BA203E94B8B</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.iTunes</string>
+			<key>PayloadUUID</key>
+			<string>D9FE36BD-F26E-4550-910D-6BA203E94B8B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>disableAppleMusic</key>
+			<true/>
+			<key>disableCheckForUpdates</key>
+			<true/>
+			<key>disableMusicStore</key>
+			<true/>
+			<key>disableShareLibraryInfo</key>
+			<false/>
+			<key>dontAutomaticallySyncIPods</key>
+			<true/>
+			<key>license-agreements</key>
+			<dict>
+				<key>EA1510</key>
+				<true/>
+			</dict>
+			<key>restrictGames</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Assistant Enabled</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Assistant settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.assistant.support.25345B91-CAF1-4141-9BEA-B548247A338A</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.assistant.support</string>
+			<key>PayloadUUID</key>
+			<string>25345B91-CAF1-4141-9BEA-B548247A338A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Screensaver settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Screensaver</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.screensaver.797D259E-B65C-4598-8DC2-27E1A87DD68A</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.screensaver</string>
+			<key>PayloadUUID</key>
+			<string>797D259E-B65C-4598-8DC2-27E1A87DD68A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>askForPassword</key>
+			<false/>
+			<key>askForPasswordDelay</key>
+			<integer>2147483647</integer>
+			<key>idleTime</key>
+			<integer>0</integer>
+			<key>loginWindowIdleTime</key>
+			<integer>300</integer>
+		</dict>
+		<dict>
+			<key>AllowIdentifiedDevelopers</key>
+			<true/>
+			<key>EnableAssessment</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures System Policy: Control settings</string>
+			<key>PayloadDisplayName</key>
+			<string>System Policy: Control</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.systempolicy.control.8FC288BE-2E94-4B62-83E1-DD1960E50682</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.systempolicy.control</string>
+			<key>PayloadUUID</key>
+			<string>8FC288BE-2E94-4B62-83E1-DD1960E50682</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DoNotOfferNewDisksForBackup</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Time Machine settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Time Machine</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.TimeMachine.7013ACDF-180D-4BFA-A599-0EC29E1D1333</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.TimeMachine</string>
+			<key>PayloadUUID</key>
+			<string>7013ACDF-180D-4BFA-A599-0EC29E1D1333</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Screencapture settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Screencapture</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D.com.apple.screencapture.B299429C-3346-4D38-A0D6-BF7D34B73C49</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.screencapture</string>
+			<key>PayloadUUID</key>
+			<string>B299429C-3346-4D38-A0D6-BF7D34B73C49</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>disable-shadow</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures general settings for macOS in the Music Production Studios</string>
+	<key>PayloadDisplayName</key>
+	<string>Music Production General System Setup</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D</string>
+	<key>PayloadOrganization</key>
+	<string>York St. John University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FA4E6C38-6B70-47BF-8022-7CD873FA0D3D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
