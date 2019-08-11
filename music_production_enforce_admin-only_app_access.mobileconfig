@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Parental Controls: Application Access</string>
+			<key>PayloadDisplayName</key>
+			<string>Parental Controls: Application Access</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreatoCAD88B21-FC93-454B-9674-F71C04BEFBF4.com.apple.applicationaccess.new.50C3AA3D-A644-4D4C-97F9-A7D0067292A0</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess.new</string>
+			<key>PayloadUUID</key>
+			<string>50C3AA3D-A644-4D4C-97F9-A7D0067292A0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>familyControlsEnabled</key>
+			<true/>
+			<key>pathBlackList</key>
+			<array>
+				<string>/Applications/Native Access.app</string>
+				<string>/Applications/iLok License Manager.app</string>
+				<string>/Applications/eLicenser Control Center.app</string>
+			</array>
+			<key>pathWhiteList</key>
+			<array>
+				<string>/</string>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enforces admin-only access to certain apps</string>
+	<key>PayloadDisplayName</key>
+	<string>Music Production Enforce Admin-Only App Access</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreatoCAD88B21-FC93-454B-9674-F71C04BEFBF4</string>
+	<key>PayloadOrganization</key>
+	<string>York St. John University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>57B67278-8DB2-41F8-A04F-2412330D7E7C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
