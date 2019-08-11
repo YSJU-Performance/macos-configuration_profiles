@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AbusiveExperienceInterventionEnforce</key>
+			<true/>
+			<key>AdsSettingForIntrusiveAdsSites</key>
+			<integer>2</integer>
+			<key>AutoFillEnabled</key>
+			<false/>
+			<key>AutofillAddressEnabled</key>
+			<false/>
+			<key>BookmarkBarEnabled</key>
+			<false/>
+			<key>BrowserAddPersonEnabled</key>
+			<false/>
+			<key>BrowserGuestModeEnabled</key>
+			<true/>
+			<key>DefaultBrowserSettingEnabled</key>
+			<true/>
+			<key>EditBookmarksEnabled</key>
+			<false/>
+			<key>ExtensionInstallBlacklist</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>ForceEphemeralProfiles</key>
+			<true/>
+			<key>ForceGoogleSafeSearch</key>
+			<true/>
+			<key>HideWebStoreIcon</key>
+			<true/>
+			<key>PasswordManagerEnabled</key>
+			<false/>
+			<key>PayloadDescription</key>
+			<string>Configures Google Chrome settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Google Chrome</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.3430C650-99AD-4525-8E8F-40F295B1E47C.com.google.Chrome.C767D7B1-7D21-4407-A019-9D5A20163A52</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.google.Chrome</string>
+			<key>PayloadUUID</key>
+			<string>C767D7B1-7D21-4407-A019-9D5A20163A52</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PromptForDownloadLocation</key>
+			<true/>
+			<key>RelaunchNotification</key>
+			<integer>2</integer>
+			<key>SafeBrowsingEnabled</key>
+			<true/>
+			<key>SavingBrowserHistoryDisabled</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Google Software Update preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Google Software Update Preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.3430C650-99AD-4525-8E8F-40F295B1E47C.com.google.Keystone.C52A129D-4652-4158-A172-04E3F7FDB4A6</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.google.Keystone</string>
+			<key>PayloadUUID</key>
+			<string>C52A129D-4652-4158-A172-04E3F7FDB4A6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>updatePolicies</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>UpdateDefault</key>
+					<integer>0</integer>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets default options for Google Chrome for use in the Music Production Studios.</string>
+	<key>PayloadDisplayName</key>
+	<string>Music Production Google Chrome Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.3430C650-99AD-4525-8E8F-40F295B1E47C</string>
+	<key>PayloadOrganization</key>
+	<string>York St. John University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3430C650-99AD-4525-8E8F-40F295B1E47C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
