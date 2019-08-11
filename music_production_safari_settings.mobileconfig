@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AskBeforeSubmittingInsecureForms</key>
+			<true/>
+			<key>AutoFillFromAddressBook</key>
+			<false/>
+			<key>AutoFillMiscellaneousForms</key>
+			<false/>
+			<key>AutoFillPasswords</key>
+			<false/>
+			<key>BlockStoragePolicy</key>
+			<integer>2</integer>
+			<key>BookmarksCollectionsIncludeAddressBook</key>
+			<false/>
+			<key>BookmarksCollectionsIncludeRendezvous</key>
+			<false/>
+			<key>BookmarksMenuIncludesAddressBook</key>
+			<false/>
+			<key>BookmarksMenuIncludesBookmarksToolbar</key>
+			<false/>
+			<key>BookmarksMenuIncludesRendezvous</key>
+			<false/>
+			<key>CanPromptForPushNotifications</key>
+			<false/>
+			<key>DefaultBrowserPromptingState2</key>
+			<integer>1</integer>
+			<key>DidDisableIndividualExtensionsAfterRemovingOnOffSwitchIfNecessary</key>
+			<true/>
+			<key>DownloadsClearingPolicy</key>
+			<integer>1</integer>
+			<key>ExtensionsEnabled</key>
+			<false/>
+			<key>HistoryAgeInDaysLimit</key>
+			<integer>1</integer>
+			<key>HomePage</key>
+			<string>http://www.google.co.uk</string>
+			<key>NewTabBehavior</key>
+			<integer>0</integer>
+			<key>NewWindowBehavior</key>
+			<integer>0</integer>
+			<key>PayloadDescription</key>
+			<string>Configures Safari configuration preferences</string>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator77F186A2-E388-4A28-A564-E89FCF4E9B04.com.apple.Safari.DA8BC7CB-CAC3-4BFC-A3EA-C5A75DF8BA1C</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>DA8BC7CB-CAC3-4BFC-A3EA-C5A75DF8BA1C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
+			<true/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptEnabled</key>
+			<true/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PluginsEnabled</key>
+			<true/>
+			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2PrivateBrowsingEnabled</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets default options for Safari for use in the Music Production Studios.</string>
+	<key>PayloadDisplayName</key>
+	<string>Music Production Safari Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator77F186A2-E388-4A28-A564-E89FCF4E9B04</string>
+	<key>PayloadOrganization</key>
+	<string>York St. John University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A258DF90-EA7E-403F-A8C0-DE164AE8FBF9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
