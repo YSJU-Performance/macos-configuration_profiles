@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Desktop Picture settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Picture</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator1AEE11A0-134D-42E5-A272-078A5EAB20AC.com.apple.desktop.2B552DE0-34A6-4274-ACC2-AD5A1A88AEAE</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.desktop</string>
+			<key>PayloadUUID</key>
+			<string>2B552DE0-34A6-4274-ACC2-AD5A1A88AEAE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>locked</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Prevents the desktop picture from being changed by the user.</string>
+	<key>PayloadDisplayName</key>
+	<string>Music Production Lock Desktop Picture</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator1AEE11A0-134D-42E5-A272-078A5EAB20AC</string>
+	<key>PayloadOrganization</key>
+	<string>York St. John University</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>BC8BDF84-0A40-4084-AE4D-55E701E63C51</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
