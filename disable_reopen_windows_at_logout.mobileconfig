@@ -7,7 +7,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadOrganization</key>
-    <string></string>
+    <string>York St. John University</string>
     <key>PayloadIdentifier</key>
     <string>com.github.golbiga.profile.disablereopenwindows</string>
     <key>PayloadDisplayName</key>
@@ -28,7 +28,7 @@
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
    	   	<key>PayloadOrganization</key>
-        <string></string>
+        <string>York St. John University</string>
         <key>PayloadIdentifier</key>
         <string>com.github.golbiga.profile.disablereopenwindows</string>
         <key>PayloadDisplayName</key>
