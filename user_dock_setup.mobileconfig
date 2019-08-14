@@ -356,7 +356,7 @@
 	<key>PayloadDescription</key>
 	<string>Sets up the dock with standard apps for the Macs in the Music Production studios. Prevents the dock from being modified by the user once setup.</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production User Dock Setup</string>
+	<string>User Dock Setup</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreator.C38D2B4E-541A-47D2-84E1-1C575D663CE2</string>
 	<key>PayloadOrganization</key>
