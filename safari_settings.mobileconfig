@@ -14,7 +14,7 @@
 			<key>AutoFillPasswords</key>
 			<false/>
 			<key>BlockStoragePolicy</key>
-			<integer>2</integer>
+			<integer>3</integer>
 			<key>BookmarksCollectionsIncludeAddressBook</key>
 			<false/>
 			<key>BookmarksCollectionsIncludeRendezvous</key>
@@ -57,6 +57,8 @@
 			<string>DA8BC7CB-CAC3-4BFC-A3EA-C5A75DF8BA1C</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>TabCreationPolicy</key>
+			<integer>2</integer>
 			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaEnabled</key>
 			<true/>
 			<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2JavaScriptEnabled</key>
