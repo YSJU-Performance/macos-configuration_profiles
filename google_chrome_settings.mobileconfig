@@ -86,7 +86,7 @@
 	<key>PayloadDescription</key>
 	<string>Sets default options for Google Chrome for use in the Music Production Studios.</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production Google Chrome Settings</string>
+	<string>Google Chrome Settings</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreator.3430C650-99AD-4525-8E8F-40F295B1E47C</string>
 	<key>PayloadOrganization</key>

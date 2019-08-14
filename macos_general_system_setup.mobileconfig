@@ -547,7 +547,7 @@
 	<key>PayloadDescription</key>
 	<string>Configures general settings for macOS in the Music Production Studios</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production General System Setup</string>
+	<string>General System Setup</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreator.FA4E6C38-6B70-47BF-8022-7CD873FA0D3D</string>
 	<key>PayloadOrganization</key>

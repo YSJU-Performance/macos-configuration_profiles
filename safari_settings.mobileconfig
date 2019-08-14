@@ -70,7 +70,7 @@
 	<key>PayloadDescription</key>
 	<string>Sets default options for Safari for use in the Music Production Studios.</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production Safari Settings</string>
+	<string>Safari Settings</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreator77F186A2-E388-4A28-A564-E89FCF4E9B04</string>
 	<key>PayloadOrganization</key>

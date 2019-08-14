@@ -26,7 +26,7 @@
 	<key>PayloadDescription</key>
 	<string>Prevents the desktop picture from being changed by the user.</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production Lock Desktop Picture</string>
+	<string>Lock Desktop Picture</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreator1AEE11A0-134D-42E5-A272-078A5EAB20AC</string>
 	<key>PayloadOrganization</key>

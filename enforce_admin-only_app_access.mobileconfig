@@ -36,7 +36,7 @@
 	<key>PayloadDescription</key>
 	<string>Enforces admin-only access to certain apps</string>
 	<key>PayloadDisplayName</key>
-	<string>Music Production Enforce Admin-Only App Access</string>
+	<string>Enforce Admin-Only App Access</string>
 	<key>PayloadIdentifier</key>
 	<string>com.github.erikberglund.ProfileCreatoCAD88B21-FC93-454B-9674-F71C04BEFBF4</string>
 	<key>PayloadOrganization</key>
