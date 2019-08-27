@@ -22,7 +22,7 @@
 			<key>locked</key>
 			<true/>
 			<key>override-picture-path</key>
-			<string>/Library/Desktop\ Pictures/wallpaper-1920x1080.jpg</string>
+			<string>/Library/Desktop Pictures/wallpaper-1920x1080.jpg</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
