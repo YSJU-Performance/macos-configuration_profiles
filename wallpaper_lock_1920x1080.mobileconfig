@@ -21,10 +21,12 @@
 			<integer>1</integer>
 			<key>locked</key>
 			<true/>
+			<key>override-picture-path</key>
+			<string>/Library/Desktop\ Pictures/wallpaper-1920x1080.jpg</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Prevents the desktop picture from being changed by the user.</string>
+	<string>Prevents the desktop picture from being changed by the user</string>
 	<key>PayloadDisplayName</key>
 	<string>Lock Desktop Picture</string>
 	<key>PayloadIdentifier</key>
